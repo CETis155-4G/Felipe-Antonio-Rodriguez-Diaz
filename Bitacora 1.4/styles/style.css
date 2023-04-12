@@ -1,76 +1,96 @@
 /* Estilos para el encabezado */
 header {
-    background-color: #003366;
-    color: white;
-    text-align: center;
-    padding: 20px;
-    margin-bottom: 20px;
-  }
-  
-  header h1 {
-    font-size: 36px;
-  }
-  
-  /* Estilos para los artículos */
-  article {
-    background-color: #f5f5f5;
-    border: 1px solid #ccc;
-    padding: 20px;
-    margin-bottom: 20px;
-  }
-  
-  article h2 {
-    font-size: 24px;
-  }
-  
-  article h3 {
-    font-size: 20px;
-  }
-  
-  article p {
-    font-size: 16px;
-  }
-  
-  /* Estilos para las imágenes */
-  img {
-    display: block;
-    margin: auto;
-    margin-bottom: 10px;
-  }
-  
-  /* Estilos para la clases */
-  .clase1 {
-    background-color: #ccf0e6;
-  }
-  
-  .clase2 {
-    background-color: #e6ccff;
-  }
-  
-  .clase3 {
-    background-color: #f0e6cc;
-  }
-  
-  .clase4 {
-    background-color: #ccf0e6;
-  }
-  
-  .clase5 {
-    background-color: #ccf0ff;
-  }
+  background-color: #003366;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 20px;
+}
 
-  .clase6 {
-    background-color: #ccf0e6;
-  }
-  
-  .clase7 {
-    background-color: #e6ccff;
-  }
-  
-  .clase8 {
-    background-color: #f0e6cc;
-  }
-  
-  .clase9 {
-    background-color: #ccf0e6;
-  }
+header h1 {
+  font-size: 36px;
+}
+
+/* Estilos para los artículos */
+article {
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+article h2 {
+  font-size: 24px;
+}
+
+article h3 {
+  font-size: 20px;
+}
+
+article p {
+  font-size: 16px;
+}
+
+/* Estilos para las imágenes */
+img {
+  display: block;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+/* Estilos para la clases */
+.clase1 {
+  background-color: #ccf0e6;
+}
+
+.clase2 {
+  background-color: #e6ccff;
+}
+
+.clase3 {
+  background-color: #f0e6cc;
+}
+
+.clase4 {
+  background-color: #ccf0e6;
+}
+
+.clase5 {
+  background-color: #ccf0ff;
+}
+
+.clase6 {
+  background-color: #ccf0e6;
+}
+
+.clase7 {
+  background-color: #e6ccff;
+}
+
+.clase8 {
+  background-color: #f0e6cc;
+}
+
+.clase9 {
+  background-color: #ccf0e6;
+}
+
+.clase10 {
+  background-color: #e6ccff;
+}
+
+.clase11 {
+  background-color: #f0e6cc;
+}
+
+.clase12 {
+  background-color: #ccf0e6;
+}
+
+.clase13 {
+  background-color: #ccf0ff;
+}
+
+.clase14 {
+  background-color: #ccf0e6;
+}
